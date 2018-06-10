@@ -1,8 +1,8 @@
 # BIT - Fenwick Tree
-Binary Indexed Tree or Fenwick Tree is a data structure that can update and calculate prefix and ranged operations**\***.
+Binary Indexed Tree or Fenwick Tree is a data structure that can update and calculate prefix and ranged operations\*.
 - **f(a,b)** need to follow these rules:
     - Be **Associative**
-    - Has an inverse**\*\***
+    - Has an inverse\*\*
 
 \* *We define prefix operation up to x for a function **f(a,b)** as below in this example, where the **f(a,b)** is sum:*
 ```
